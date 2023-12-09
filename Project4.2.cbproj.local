@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.238,D:\C++\цифр практика\Project5.2PCH1.h=D:\C++\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,D:\C++\цифр практика\Unit7.cpp=D:\C++\цифр практика\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,D:\C++\цифр практика\Unit7.dfm=D:\C++\цифр практика\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,D:\C++\цифр практика\Unit1.dfm=D:\C++\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,D:\C++\цифр практика\Unit7.h=D:\C++\цифр практика\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,D:\C++\цифр практика\Unit1.h=D:\C++\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,=D:\C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=D:\C++\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,=D:\C++\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,D:\C++\цифр практика\Unit1.cpp=D:\C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,=D:\C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.265,D:\C++\цифр практика\Project5.2.cbproj=D:\C++\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,D:\C++\цифр практика\Project5.2.cbproj=D:\C++\цифр практика\Project5.2.cbproj</Transaction>
+    <Transaction>2023.11.04 15:44:59.163,C:\Users\Alexander\Desktop\папка альтруизма\цифр прак Власов\Project4.2PCH3.h=D:\C++\цифр практика\Project5.2PCH1.h</Transaction>
+    <Transaction>2023.11.04 15:44:59.182,C:\Users\Alexander\Desktop\папка альтруизма\цифр прак Власов\Project4.2.cbproj=D:\C++\цифр практика\Project5.2.cbproj</Transaction>
+    <Transaction>2023.11.04 15:45:03.508,C:\Users\Alexander\Desktop\папка альтруизма\цифр прак Власов\Project4.2.cbproj=C:\Users\Alexander\Desktop\папка альтруизма\цифр прак Власов\Project4.2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
