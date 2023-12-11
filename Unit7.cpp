@@ -45,7 +45,7 @@ void __fastcall TForm2::Button1Click(TObject *Sender)
 {
 double * x;
 double * y;
-int sumP, n, nx, ny, i,sumO,sumOO,sumPP, sumP2, sumO2;
+int n, nx, ny, i,sumOO,sumPP;
 nx=Memo1->Lines->Count;
 ny = Memo2->Lines->Count;
 x=new double[nx];
@@ -66,14 +66,10 @@ for (i=0; i<=ny-1; i++)
    }
    else ShowMessage("ошибка синтаксиса 2");
  }
-sumP = sum1(x,nx);
-sumO = sum2(x,nx);
-sumP2 = sum1(y,ny);
-sumO2 = sum2(y,ny);
-Label6->Caption=IntToStr(sumP);
-Label5->Caption=FloatToStr(sumO);
-Label10->Caption=IntToStr(sumP2);
-Label9->Caption=FloatToStr(sumO2);
+Label6->Caption=FloatToStr(sum1(x,nx));
+Label5->Caption=FloatToStr(sum2(x,nx));
+Label10->Caption=FloatToStr(sum1(y,ny));
+Label9->Caption=FloatToStr(sum2(y,ny));
 }
 
 //---------------------------------------------------------------------------
