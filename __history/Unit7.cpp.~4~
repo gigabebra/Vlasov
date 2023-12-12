@@ -1,4 +1,4 @@
-﻿//---------------------------------------------------------------------------
+//---------------------------------------------------------------------------
 
 #include <vcl.h>
 #pragma hdrstop
@@ -55,14 +55,14 @@ for (i=0; i<=nx-1; i++)
   if (TryStrToFloat(Memo1->Lines->Strings[i], x[i]))
    {
    }
-   else ShowMessage("ошибка синтаксиса 1");
+   else ShowMessage("������ ���������� 1");
  }
 for (i=0; i<=ny-1; i++)
  {
   if (TryStrToFloat(Memo2->Lines->Strings[i], y[i]))
    {
    }
-   else ShowMessage("ошибка синтаксиса 2");
+   else ShowMessage("������ ���������� 2");
  }
 Label6->Caption=FloatToStr(sum1(x,nx));
 Label5->Caption=FloatToStr(sum2(x,nx));
