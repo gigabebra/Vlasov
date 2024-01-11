@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.283,=D:\C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,=D:\C++\Project1PCH1.h</Transaction>
+    <Transaction>2024.01.11 20:52:23.391,=D:\C++\Project1PCH1.h</Transaction>
+    <Transaction>2024.01.11 20:52:23.470,=D:\C++\Unit2.cpp</Transaction>
+    <Transaction>2024.01.11 20:52:45.446,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Project6.1PCH1.h=D:\C++\Project1PCH1.h</Transaction>
+    <Transaction>2024.01.11 20:52:45.459,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit2.dfm=D:\C++\Unit2.dfm</Transaction>
+    <Transaction>2024.01.11 20:52:45.459,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit2.cpp=D:\C++\Unit2.cpp</Transaction>
+    <Transaction>2024.01.11 20:52:45.459,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit2.h=D:\C++\Unit2.h</Transaction>
+    <Transaction>2024.01.11 20:52:45.476,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Project6.1.cbproj=D:\C++\Project1.cbproj</Transaction>
+    <Transaction>2024.01.11 20:52:54.140,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit6.cpp=C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit2.cpp</Transaction>
+    <Transaction>2024.01.11 20:52:54.140,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit6.h=C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit2.h</Transaction>
+    <Transaction>2024.01.11 20:52:54.140,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit6.dfm=C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Unit2.dfm</Transaction>
+    <Transaction>2024.01.11 20:52:56.327,C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Project6.1.cbproj=C:\Users\Alexander\Desktop\репозиторий2\Vlasov\Project6.1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
